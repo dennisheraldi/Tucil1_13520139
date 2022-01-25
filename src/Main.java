@@ -327,7 +327,7 @@ public class Main {
             if (checkDownL){
                 for (int p=0; p<map.length;p++){
                     for(int q=0; q<map[0].length; q++){
-                        if (p-barisMap < words[i].length() && p-barisMap >= 0 && kolomMap-q < words[i].length() && kolomMap-q > 0 && p-barisMap==kolomMap-q){
+                        if (p-barisMap < words[i].length() && p-barisMap >= 0 && kolomMap-q < words[i].length() && kolomMap-q >= 0 && p-barisMap==kolomMap-q){
                             colorMap[p][q] = i+1;
                         }
                     }
