@@ -1,8 +1,8 @@
 # Tucil1_13520139
 
-Tugas Kecil I IF2211 Strategi Algoritma
-Penyelesaian Word Search Puzzle dengan Algoritma Brute Force
-Semester II Tahun 2021/2022
+Tugas Kecil I IF2211 Strategi Algoritma <br>
+Penyelesaian Word Search Puzzle dengan Algoritma Brute Force <br>
+Semester II Tahun 2021/2022 <br>
 
 ## Daftar Isi
 * [Deskripsi Program](#deskripsi-program)
@@ -33,9 +33,9 @@ Penjelasan singkat mengenai folder/file: <br>
 3. Apabila menu utama program telah muncul, program berhasil dijalankan. 
 
 ## Dibuat oleh
-Fachry Dennis Heraldi (13520139)
-K1 - IF2211 Strategi Algoritma
-Teknik Informatika
-Institut Teknologi Bandung
-2022
+Fachry Dennis Heraldi (13520139) <br>
+K1 - IF2211 Strategi Algoritma <br>
+Teknik Informatika <br>
+Institut Teknologi Bandung <br>
+2022 <br>
 
