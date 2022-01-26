@@ -32,9 +32,15 @@ Penjelasan singkat mengenai folder/file: <br>
 
 ## Cara Menjalankan Program
 
-1. Pastikan telah mengunduh dan menginstal Java dan Visual Studio Code sesuai dengan _requirement_ program diatas.
-2. Program dapat secara langsung dirun atau dapat melalui perintah `run` yang dijalankan di terminal.
-3. Apabila menu utama program telah muncul, program berhasil dijalankan.
+1. Pastikan telah mengunduh dan menginstal Java dan Visual Studio Code sesuai dengan _requirement_ program diatas. <br>
+2. Ekstrak file Tucil1_13520139.zip ke folder yang sudah dibuat. <br>
+3. Jalankan Visual Studio Code dan arahkan pada folder hasil ekstraksi. <br>
+4. Pada Visual Studio Code, buka Terminal, masuk ke folder yang sudah dibuat, dan jalankan file `run.bat`. Dapat secara langsung mengeksekusi perintah `run` kemudian enter. <br>
+5. Jika sudah berhasil menjalankan program, maka akan muncul tampilan menu utama. <br>
+6. File puzzle yang akan diselesaikan dapat diletakkan pada folder `test`, pastikan format telah sesuai dengan ketentuan (dapat dicontoh pada file test yang telah ada.
+   <br>
+7. Puzzle siap untuk diselesaikan, pilih menu "1. Selesaikan Puzzle" dan masukkan file puzzle yang akan diselesaikan. <br>
+8. Program akan menampilkan hasil pencarian kata yang dicari.
 
 ## Dibuat oleh
 
